@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cailinyoung/cyoung-notetaker/issues"
   },
-  "homepage": "https://github.com/cailinyoung/cyoung-notetaker#readme"
+  "homepage": "https://github.com/cailinyoung/cyoung-notetaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
