@@ -9,7 +9,7 @@ Note Taker - Cailin Young
 [Contributors](#Contributors)  
 
 ## Description
-* This app allows users to input notes, edit, and delete.
+* This assignment we were tasked with focusing on routing and express in Node. We designed this app to do what the title states. Take notes! as well as edit, and delete them.. while having the ones you want stay! 
 
 ## Installation
 * No installations needed.
@@ -18,8 +18,8 @@ Note Taker - Cailin Young
 * n/a
 
 ## Live Site and Repo
-* [Live Site]()
-* [Repo]()
+* [Live Site](https://cyoung-notetaker.herokuapp.com/)
+* [Repo](https://github.com/cailinyoung/cyoung-notetaker)
 
 ## Contributors
 * Contributor: [Cailin Young](https://github.com/cailinyoung)
